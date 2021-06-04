@@ -1,0 +1,15 @@
+[package]
+name = "zirconium"
+version = "0.1.0"
+authors = ["AppleFlavored <boostelixir@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/AppleFlavored/zirconium"
+license = "GPL-3.0"
+
+[dependencies]
+luminance = "0.43.2"
+luminance-front = "0.3.1"
+luminance-glutin = "0.11.3"
+glutin = "0.26.0"
+cgmath = "0.18.0"
+specs = "0.16.1"
